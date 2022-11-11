@@ -4,10 +4,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfpugad&layout=compact)](https://github.com/rfpugad/github-readme-stats)
 
-
-<a href="https://github.com/rfpugad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfpugad&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/rfpugad/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfpugad&repo=convoychat" />
-</a>
